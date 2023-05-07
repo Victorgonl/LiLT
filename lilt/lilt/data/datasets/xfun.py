@@ -5,7 +5,7 @@ import os
 
 import datasets
 
-from LiLTfinetune.data.utils import load_image, merge_bbox, normalize_bbox, simplify_bbox
+from lilt.data.utils import load_image, merge_bbox, normalize_bbox, simplify_bbox
 from transformers import AutoTokenizer
 
 
